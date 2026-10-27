@@ -1,6 +1,6 @@
 cask "bellhop" do
-  version "0.1.3"
-  sha256 "51a331431e9e0cd8cb4b456fb6b2dd326186d9660f714fff613a08e01862b08d"
+  version "0.1.4"
+  sha256 "74a8354df43c4bfbd46572054bc21d1273844d4fb3e61fa6750751b247b8e202"
 
   url "https://github.com/tmass1/bellhop/releases/download/v#{version}/Bellhop.zip"
   name "Bellhop"
